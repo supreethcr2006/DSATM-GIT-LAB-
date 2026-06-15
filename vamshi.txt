@@ -1,10 +1,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 im doing nothing
 =======
 eat 5 start do nothing
 >>>>>>> 25fecc1 (vamshi.txt)
+=======
+waiting for conflict
+>>>>>>> a595d67 (conflict is ready)
 =======
 waiting for conflict
 >>>>>>> a595d67 (conflict is ready)
