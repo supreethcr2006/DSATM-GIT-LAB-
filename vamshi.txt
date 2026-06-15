@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello brother
-=======
-waiting for conflict
->>>>>>> feature-login
+im doing nothing
