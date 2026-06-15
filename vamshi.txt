@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 im doing nothing
+=======
+eat 5 start do nothing
+>>>>>>> 25fecc1 (vamshi.txt)
